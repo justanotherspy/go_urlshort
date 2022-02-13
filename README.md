@@ -1,7 +1,10 @@
 # Exercise #2: URL Shortener
 
-[![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/urlshort)
+Below is the original exercise details
 
+Thanks to Jon at courses.calhoun.io for the exercises.
+
+This repo contains my solution
 
 
 ## Exercise details
